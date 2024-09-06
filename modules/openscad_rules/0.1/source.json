@@ -1,6 +1,6 @@
 {
     "strip_prefix": "openscad_rules-0.1",
-    "url": "https://github.com/roleroz/openscad_rules/archive/refs/tags/v0.2.zip",
+    "url": "https://github.com/roleroz/openscad_rules/archive/refs/tags/v0.3.zip",
     "patch_strip": 0,
     "patches": {}
 }
