@@ -1,4 +1,0 @@
-module(
-    name="openscad_rules",
-    version="0.8"
-)

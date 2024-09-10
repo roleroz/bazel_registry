@@ -1,7 +1,0 @@
-{
-    "integrity": "sha256-H7gdFs9cGmqJBe+Sht6O5O39Ghjsl9KFGqPbvZ+yrP0=",
-    "strip_prefix": "openscad_rules-0.2",
-    "url": "https://github.com/roleroz/openscad_rules/archive/refs/tags/v0.2.zip",
-    "patch_strip": 0,
-    "patches": {}
-}
